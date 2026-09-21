@@ -1,0 +1,16 @@
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\bin\Debug\net10.0-windows\TodoListDemo.exe
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\bin\Debug\net10.0-windows\TodoListDemo.deps.json
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\bin\Debug\net10.0-windows\TodoListDemo.runtimeconfig.json
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\bin\Debug\net10.0-windows\TodoListDemo.dll
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\bin\Debug\net10.0-windows\TodoListDemo.pdb
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\TodoListDemo.Form1.resources
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\TodoListDemo.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\TodoListDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\TodoListDemo.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\TodoListDemo.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\TodoListDemo.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\TodoListDemo.dll
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\refint\TodoListDemo.dll
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\TodoListDemo.pdb
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\TodoListDemo.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\TodoListDemo\TodoListDemo\obj\Debug\net10.0-windows\ref\TodoListDemo.dll
