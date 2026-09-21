@@ -1,0 +1,16 @@
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\bin\Debug\net10.0-windows\GymFitLifeDemo.exe
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\bin\Debug\net10.0-windows\GymFitLifeDemo.deps.json
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\bin\Debug\net10.0-windows\GymFitLifeDemo.runtimeconfig.json
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\bin\Debug\net10.0-windows\GymFitLifeDemo.dll
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\bin\Debug\net10.0-windows\GymFitLifeDemo.pdb
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\GymFitLifeDemo.Form1.resources
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\GymFitLifeDemo.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\GymFitLifeDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\GymFitLifeDemo.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\GymFitLifeDemo.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\GymFitLifeDemo.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\GymFitLifeDemo.dll
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\refint\GymFitLifeDemo.dll
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\GymFitLifeDemo.pdb
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\GymFitLifeDemo.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\GymFitLifeDemo\GymFitLifeDemo\obj\Debug\net10.0-windows\ref\GymFitLifeDemo.dll
