@@ -1,0 +1,16 @@
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.exe
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.deps.json
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.runtimeconfig.json
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.dll
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.pdb
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.Form1.resources
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.dll
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\refint\CafeStatusDemo.dll
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.pdb
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\ref\CafeStatusDemo.dll
