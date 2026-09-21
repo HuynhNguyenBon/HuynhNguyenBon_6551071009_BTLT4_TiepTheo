@@ -1,0 +1,17 @@
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\BanHangSieuthi.FormBanHang.resources
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\BanHangSieuthi.Properties.Resources.resources
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\BanHangSieuthi.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\BanHangSieuthi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\BanHangSieuthi.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\BanHangSieuthi.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\BanHangSieuthi.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\bin\Debug\net10.0-windows\BanHangSieuthi.exe
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\bin\Debug\net10.0-windows\BanHangSieuthi.deps.json
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\bin\Debug\net10.0-windows\BanHangSieuthi.runtimeconfig.json
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\bin\Debug\net10.0-windows\BanHangSieuthi.dll
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\bin\Debug\net10.0-windows\BanHangSieuthi.pdb
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\BanHangSieuthi.dll
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\refint\BanHangSieuthi.dll
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\BanHangSieuthi.pdb
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\BanHangSieuthi.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\BanHangSieuthi\BanHangSieuthi\obj\Debug\net10.0-windows\ref\BanHangSieuthi.dll
