@@ -1,0 +1,16 @@
+E:\Baitapthayduong\Học C#\FormVe\FormVe\bin\Debug\net10.0-windows\FormVe.exe
+E:\Baitapthayduong\Học C#\FormVe\FormVe\bin\Debug\net10.0-windows\FormVe.deps.json
+E:\Baitapthayduong\Học C#\FormVe\FormVe\bin\Debug\net10.0-windows\FormVe.runtimeconfig.json
+E:\Baitapthayduong\Học C#\FormVe\FormVe\bin\Debug\net10.0-windows\FormVe.dll
+E:\Baitapthayduong\Học C#\FormVe\FormVe\bin\Debug\net10.0-windows\FormVe.pdb
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\FormVe.FormVe.resources
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\FormVe.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\FormVe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\FormVe.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\FormVe.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\FormVe.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\FormVe.dll
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\refint\FormVe.dll
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\FormVe.pdb
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\FormVe.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\FormVe\FormVe\obj\Debug\net10.0-windows\ref\FormVe.dll
